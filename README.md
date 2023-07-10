@@ -2,7 +2,7 @@
 
 This is the official implementation of Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement (IEEE Transactions on Multimedia 2023) in Pytorch. 
 
-![MSTFN](C:\Users\Yuri\Desktop\MSTFN\images\framework.png)
+![MSTFN](./images/framework.png)
 
 
 # Environment
