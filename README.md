@@ -2,12 +2,7 @@
 
 This is the official implementation of Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement (IEEE Transactions on Multimedia 2023) in Pytorch. 
 
-Copyright(c) 2023 Jing Liu
-
-```
-If you use this code, please cite the following publication:
-J. Liu, Z. Fan, Z. Yang, Y. Su, and X. Yang, "Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement", to appear in IEEE Transactions on Multimedia.
-```
+![MSTFN](./images/framework.png)
 
 
 # Environment
@@ -27,4 +22,22 @@ $ python test.py
 # Note
 - We provide recovery results in the folder "result". When testing, the predicted results are saved in the folder "test" .
 - The files "./metrics/SSIM_PSNR.m" is used to calculate PSNR and SSIM.
+
+# Citation
+
+If our work is helpful to you, please cite our paper:
+
+```
+@article{liu2023multi,
+  title={Multi-stage Spatio-Temporal Fusion Network for Fast and Accurate Video Bit-depth Enhancement},
+  author={Jing Liu and Zhiwei Fan and Ziwen Yang and Yuting Su and Xiaokang Yang},
+  journal={IEEE Transactions on Multimedia},
+  volume={},
+  pages={},
+  year={2023},
+  publisher={IEEE}
+}
+```
+
+
 
